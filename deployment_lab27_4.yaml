@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: rhall5uw/lab27:1.0.0
+        image: rhall5uw/lab28:1.0.0
         imagePullPolicy: Always 
 ---
 apiVersion: v1 
